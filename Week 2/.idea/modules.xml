@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/DS-Lab.iml" filepath="$PROJECT_DIR$/../.idea/DS-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week 2.iml" filepath="$PROJECT_DIR$/.idea/Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dsProject/.idea/dsProject.iml" filepath="$PROJECT_DIR$/../../dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/venv/.idea/venv.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/venv/.idea/venv.iml" />
+    </modules>
+  </component>
+</project>
